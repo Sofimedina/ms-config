@@ -4,7 +4,7 @@ accounts:
   message: "Welcome to ... accounts related PROD api"
   contactDetails:
     name: "Product owner"
-    email: "po@gmail.com"
+    email: "{cipher}941469a7686d1ff62c325e1554172d52807ea76ef8de6ed08459903f4c1ebb63057c33d79c7810af0005e69292b53d4c"
   onCallSupport:
     - 3875120002
     - 3875420002
