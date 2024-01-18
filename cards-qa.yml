@@ -1,7 +1,7 @@
 build:
   version: 1.0
 cards:
-  message: "for more info contact cards qa team"
+  message: "for more info contact cards QA team"
   contactDetails:
     name: "QA LEAD"
     email: "QA@gmail.com"
