@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 accounts:
-  message: "Welcome to .. Accounts WEBHOOK api"
+  message: "Welcome to .. Accounts PROD api"
   contactDetails:
     name: "Product owner"
     email: "{cipher}941469a7686d1ff62c325e1554172d52807ea76ef8de6ed08459903f4c1ebb63057c33d79c7810af0005e69292b53d4c"
