@@ -1,7 +1,7 @@
 build:
   version: 1.0
 cards:
-  message: "for more info contact cards webhook team"
+  message: "For more info contact Cards WEBHOOK team"
   contactDetails:
     name: "QA LEAD"
     email: "QA@gmail.com"
