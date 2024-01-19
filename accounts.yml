@@ -6,7 +6,7 @@ spring:
 build:
   version: "3.0"
 accounts:
-  message: "Welcome to ... accounts related default api"
+  message: "Welcome to ... accounts related def api"
   contactDetails:
     name: "Sofia Medina"
     email: "sofi.k.medina@gmail.com"
